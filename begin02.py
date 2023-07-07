@@ -1,3 +1,3 @@
 a=float(input())
-S=a**2
-print(S)
+s=a**2
+print(s)
