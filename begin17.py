@@ -1,0 +1,5 @@
+a=float(input())
+b=float(input())
+c=float(input())
+P=(a+c)*(c+b)
+print(P)
