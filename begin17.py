@@ -1,5 +1,5 @@
 a=float(input())
 b=float(input())
 c=float(input())
-P=(a+c)+(c+b)
+P=abs(a-c)+abs(c-b)
 print(P)
