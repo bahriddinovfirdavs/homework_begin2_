@@ -1,0 +1,7 @@
+a=float(input())
+b=float(input())
+p=abs(a+b)
+s=abs(a-b)
+d=abs(a*b)
+f=abs(a/b)
+print(p,s,d,f)
