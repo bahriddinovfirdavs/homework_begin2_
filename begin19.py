@@ -1,0 +1,7 @@
+x1=float(input())
+y1=float(input())
+x2=float(input())
+y2=float(input())
+S=abs(x1-y2)*abs(x2-y1)
+P=2(abs(x1-y2)+abs(x2-y1))
+print(S,P)
